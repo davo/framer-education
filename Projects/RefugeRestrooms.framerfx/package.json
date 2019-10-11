@@ -1,0 +1,23 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@framer/framer.device-skin-apple-ipad-mini-silver": "^1.0.0",
+		"@framer/framer.device-skin-apple-ipad-mini-space-gray": "^1.0.0",
+		"@framer/framer.device-skin-apple-ipad-pro-space-gray": "^1.0.0",
+		"@framer/framer.device-skin-apple-iphone-xs-spacegrey": "^1.0.0",
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0 || ^1.0.0-beta",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "bbc3068b-feb3-4382-a149-6356b40cebbd"
+	},
+	"author": "Steve Ruiz",
+	"dependencies": {
+		"@framer/steveruizok.learn-mapbox": "^1.0.0",
+		"@framer/steveruizok.mapbox-experiment": "^1.15.0"
+	}
+}

@@ -287,6 +287,12 @@
                   "widthFactor" : 0.5
                 },
                 "fillType" : "color",
+                "guidesX" : [
+
+                ],
+                "guidesY" : [
+
+                ],
                 "height" : 5,
                 "heightType" : 0,
                 "id" : "LDtdcfHIB@framer\/steveruizok.education-XREstntDl-AIQpZRKUqVTPlGW6Ng",
@@ -373,6 +379,12 @@
               "widthFactor" : 0.5
             },
             "fillType" : "color",
+            "guidesX" : [
+
+            ],
+            "guidesY" : [
+
+            ],
             "height" : 13,
             "heightType" : 0,
             "id" : "LDtdcfHIB@framer\/steveruizok.education-XREstntDl-AIQpZRKUq",
@@ -500,6 +512,12 @@
                           "widthFactor" : 0.5
                         },
                         "fillType" : "color",
+                        "guidesX" : [
+
+                        ],
+                        "guidesY" : [
+
+                        ],
                         "height" : 11.33333333333333,
                         "heightType" : 0,
                         "id" : "LDtdcfHIB@framer\/steveruizok.education-XREstntDl-PPIpguwXLWj4Bh4om5",
@@ -794,6 +812,12 @@
                           "widthFactor" : 0.5
                         },
                         "fillType" : "color",
+                        "guidesX" : [
+
+                        ],
+                        "guidesY" : [
+
+                        ],
                         "height" : 7.3333333333333321,
                         "heightType" : 0,
                         "id" : "LDtdcfHIB@framer\/steveruizok.education-XREstntDl-PPIpguwXLL46xfUiU1",
@@ -880,6 +904,12 @@
                       "widthFactor" : 0.5
                     },
                     "fillType" : "color",
+                    "guidesX" : [
+
+                    ],
+                    "guidesY" : [
+
+                    ],
                     "height" : 12,
                     "heightType" : 0,
                     "id" : "LDtdcfHIB@framer\/steveruizok.education-XREstntDl-PPIpguwXLAEoFijeX9",
@@ -2487,6 +2517,12 @@
                   "widthFactor" : 0.5
                 },
                 "fillType" : "color",
+                "guidesX" : [
+
+                ],
+                "guidesY" : [
+
+                ],
                 "height" : 12,
                 "heightType" : 0,
                 "id" : "LDtdcfHIB@framer\/steveruizok.education-XREstntDl-PPIpguwXLEkWU64Z9X",
@@ -2673,6 +2709,12 @@
                   "widthFactor" : 0.5
                 },
                 "fillType" : "color",
+                "guidesX" : [
+
+                ],
+                "guidesY" : [
+
+                ],
                 "height" : 19,
                 "heightType" : 0,
                 "id" : "LDtdcfHIB@framer\/steveruizok.education-XREstntDl-PPIpguwXLY7MB6cxoK",
@@ -2759,6 +2801,12 @@
               "widthFactor" : 0.5
             },
             "fillType" : "color",
+            "guidesX" : [
+
+            ],
+            "guidesY" : [
+
+            ],
             "height" : 30,
             "heightType" : 0,
             "id" : "LDtdcfHIB@framer\/steveruizok.education-XREstntDl-PPIpguwXL",
@@ -2845,6 +2893,12 @@
           "widthFactor" : 0.5
         },
         "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
         "height" : 812,
         "heightType" : 0,
         "id" : "LDtdcfHIB",
@@ -3089,6 +3143,12 @@
                           "widthFactor" : 0.5
                         },
                         "fillType" : "color",
+                        "guidesX" : [
+
+                        ],
+                        "guidesY" : [
+
+                        ],
                         "height" : 11.33333333333333,
                         "heightType" : 0,
                         "id" : "@framer\/steveruizok.education-XREstntDl-PPIpguwXLWj4Bh4om5",
@@ -3383,6 +3443,12 @@
                           "widthFactor" : 0.5
                         },
                         "fillType" : "color",
+                        "guidesX" : [
+
+                        ],
+                        "guidesY" : [
+
+                        ],
                         "height" : 7.3333333333333321,
                         "heightType" : 0,
                         "id" : "@framer\/steveruizok.education-XREstntDl-PPIpguwXLL46xfUiU1",
@@ -3469,6 +3535,12 @@
                       "widthFactor" : 0.5
                     },
                     "fillType" : "color",
+                    "guidesX" : [
+
+                    ],
+                    "guidesY" : [
+
+                    ],
                     "height" : 12,
                     "heightType" : 0,
                     "id" : "@framer\/steveruizok.education-XREstntDl-PPIpguwXLAEoFijeX9",
@@ -5076,6 +5148,12 @@
                   "widthFactor" : 0.5
                 },
                 "fillType" : "color",
+                "guidesX" : [
+
+                ],
+                "guidesY" : [
+
+                ],
                 "height" : 12,
                 "heightType" : 0,
                 "id" : "@framer\/steveruizok.education-XREstntDl-PPIpguwXLEkWU64Z9X",
@@ -5262,6 +5340,12 @@
                   "widthFactor" : 0.5
                 },
                 "fillType" : "color",
+                "guidesX" : [
+
+                ],
+                "guidesY" : [
+
+                ],
                 "height" : 19,
                 "heightType" : 0,
                 "id" : "@framer\/steveruizok.education-XREstntDl-PPIpguwXLY7MB6cxoK",
@@ -5348,6 +5432,12 @@
               "widthFactor" : 0.5
             },
             "fillType" : "color",
+            "guidesX" : [
+
+            ],
+            "guidesY" : [
+
+            ],
             "height" : 38,
             "heightType" : 0,
             "id" : "@framer\/steveruizok.education-XREstntDl-PPIpguwXL",
@@ -5456,6 +5546,12 @@
                   "widthFactor" : 0.5
                 },
                 "fillType" : "color",
+                "guidesX" : [
+
+                ],
+                "guidesY" : [
+
+                ],
                 "height" : 5,
                 "heightType" : 0,
                 "id" : "@framer\/steveruizok.education-XREstntDl-AIQpZRKUqVTPlGW6Ng",
@@ -5542,6 +5638,12 @@
               "widthFactor" : 0.5
             },
             "fillType" : "color",
+            "guidesX" : [
+
+            ],
+            "guidesY" : [
+
+            ],
             "height" : 13,
             "heightType" : 0,
             "id" : "@framer\/steveruizok.education-XREstntDl-AIQpZRKUq",
@@ -5628,6 +5730,12 @@
           "widthFactor" : 0.5
         },
         "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
         "height" : 812,
         "heightType" : 0,
         "id" : "@framer\/steveruizok.education-XREstntDl",
@@ -5681,5 +5789,5 @@
     ],
     "visible" : false
   },
-  "version" : 53
+  "version" : 54
 }

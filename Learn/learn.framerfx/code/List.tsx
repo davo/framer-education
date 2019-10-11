@@ -84,11 +84,12 @@ export function List(props: Props) {
     const combinedContent = [...pcContent, ...ccContent]
 
     return (
-        <Scroll {...rest} dragEnabled={scroll}>
+        <Scroll {...rest} dragEnabled={scroll} background="none">
             <Stack
                 width="100%"
                 direction="vertical"
                 height="auto"
+                background="none"
                 gap={gap}
                 {...paddings}
             >

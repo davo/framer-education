@@ -1,0 +1,23 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@framer/framer.device-skin-apple-iphone-xs-spacegrey": "^1.0.0",
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "77223c3e-fc31-46d2-99fa-28abc729130a"
+	},
+	"author": "Steve Ruiz",
+	"dependencies": {
+		"@framer/steveruizok.education": "^1.207.0",
+		"@framer/steveruizok.whats-my-preview-url": "^1.0.0",
+		"gist-client": "^1.1.0",
+		"nanogist": "^1.0.0",
+		"netlify-auth-providers": "^1.0.0-alpha5"
+	}
+}
